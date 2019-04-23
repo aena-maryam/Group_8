@@ -1,0 +1,7 @@
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\obj\Debug\RMS.csprojResolveAssemblyReference.cache
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\aenam\source\repos\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
